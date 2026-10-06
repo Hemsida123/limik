@@ -1,0 +1,18 @@
+LIMIK – KOMPLETT WEBBPLATS
+
+Öppna index.html för att se startsidan.
+Behåll alla HTML-filer, style.css, app.js och assets-mappen tillsammans.
+För publicering: ladda upp hela innehållet i denna mapp till webbhotellet.
+
+Hemsidan har 33 sidor, inklusive 21 tjänstesidor, företagspresentation,
+kundcase, kundomdömen, nyheter och kontakt.
+
+Mejlknapparna öppnar besökarens mejlapp till info@limik.se.
+Artiklarna i kunskapsbanken länkar vidare till originalen på limik.se,
+med undantag för Inclusion Awards-nyheten som även finns lokalt.
+
+Bilder och information är hämtade från Limiks webbplats, kontrollerade
+den 6 oktober 2026. Tjänstebilderna är illustrativa. Inga nya personal-
+porträtt, kundprojekt eller recensioner har hittats på.
+
+Bilder, typsnitt och typsnittslicenser finns i assets-mappen.
